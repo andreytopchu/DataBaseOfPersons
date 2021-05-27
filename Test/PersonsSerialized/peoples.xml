@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName> Кирилл </FirstName>
+    <SecondName> Игнатов  </SecondName>
+    <Patronymic> Владимирович </Patronymic>
+    <DateOfBirth>1959-02-08T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Красное </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №890967</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валентин </FirstName>
+    <SecondName> Петров </SecondName>
+    <Patronymic> Петрович </Patronymic>
+    <DateOfBirth>1961-06-08T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Бендеры </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №938273</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Анатолий </FirstName>
+    <SecondName> Сидоров </SecondName>
+    <Patronymic> Андреевич </Patronymic>
+    <DateOfBirth>1987-03-05T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Красное </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №332583</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Александр </FirstName>
+    <SecondName> Петров </SecondName>
+    <Patronymic> Сергеевич </Patronymic>
+    <DateOfBirth>1999-04-05T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Слободзея </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №501594</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Владимир </FirstName>
+    <SecondName> Давыдов </SecondName>
+    <Patronymic> Эдуардович </Patronymic>
+    <DateOfBirth>1956-10-14T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Каменка </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №329460</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Андрей </FirstName>
+    <SecondName> Шубин </SecondName>
+    <Patronymic> Леонидович </Patronymic>
+    <DateOfBirth>1983-03-26T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Слободзея </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №987284</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валерий </FirstName>
+    <SecondName> Петров </SecondName>
+    <Patronymic> Васильевич </Patronymic>
+    <DateOfBirth>1986-04-17T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Красное </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №347543</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Сидоров </SecondName>
+    <Patronymic> Петрович </Patronymic>
+    <DateOfBirth>1976-07-05T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Дубоссары </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №606247</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Иванов </SecondName>
+    <Patronymic> Викторович  </Patronymic>
+    <DateOfBirth>1969-10-18T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Копанка  </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №618521</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Андрей </FirstName>
+    <SecondName> Иванов </SecondName>
+    <Patronymic> Сергеевич </Patronymic>
+    <DateOfBirth>1983-04-16T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Копанка  </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №668223</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Андрей </FirstName>
+    <SecondName> Беляков </SecondName>
+    <Patronymic> Владимирович </Patronymic>
+    <DateOfBirth>1998-12-29T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Григориополь </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №205066</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Шумило </SecondName>
+    <Patronymic> Викторович  </Patronymic>
+    <DateOfBirth>1994-04-23T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Григориополь </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №412278</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валентин </FirstName>
+    <SecondName> Симоненко </SecondName>
+    <Patronymic> Владимирович </Patronymic>
+    <DateOfBirth>1971-02-13T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Григориополь </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №557672</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Сидоров </SecondName>
+    <Patronymic> Сергеевич </Patronymic>
+    <DateOfBirth>1999-07-19T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Бендеры </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №926809</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Георгий </FirstName>
+    <SecondName> Давыдов </SecondName>
+    <Patronymic> Петрович </Patronymic>
+    <DateOfBirth>1995-03-31T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Дубоссары </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №318228</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валерий </FirstName>
+    <SecondName> Сидоров </SecondName>
+    <Patronymic> Васильевич </Patronymic>
+    <DateOfBirth>2001-08-22T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Слободзея </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №810624</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валерий </FirstName>
+    <SecondName> Беляков </SecondName>
+    <Patronymic> Алексеевич </Patronymic>
+    <DateOfBirth>2004-02-27T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Копанка  </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №820556</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Владимир </FirstName>
+    <SecondName> Шумило </SecondName>
+    <Patronymic> Алексеевич </Patronymic>
+    <DateOfBirth>1985-10-27T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Каменка </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №492669</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Александр </FirstName>
+    <SecondName> Шубин </SecondName>
+    <Patronymic> Васильевич </Patronymic>
+    <DateOfBirth>1958-02-02T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Слободзея </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №223489</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Валерий </FirstName>
+    <SecondName> Игнатов  </SecondName>
+    <Patronymic> Викторович  </Patronymic>
+    <DateOfBirth>2000-09-28T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Каменка </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №169990</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Игнатов  </SecondName>
+    <Patronymic> Алексеевич </Patronymic>
+    <DateOfBirth>1990-01-22T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Григориополь </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №926792</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Аркадий </FirstName>
+    <SecondName> Шубин </SecondName>
+    <Patronymic> Алексеевич </Patronymic>
+    <DateOfBirth>1950-10-12T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Копанка  </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №993432</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Георгий </FirstName>
+    <SecondName> Давыдов </SecondName>
+    <Patronymic> Владимирович </Patronymic>
+    <DateOfBirth>1996-03-24T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Суклея </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №934162</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Александр </FirstName>
+    <SecondName> Шубин </SecondName>
+    <Patronymic> Андреевич </Patronymic>
+    <DateOfBirth>1987-06-06T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Тирасполь </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №890822</NumberOfPassport>
+  </Person>
+  <Person>
+    <FirstName> Владимир </FirstName>
+    <SecondName> Шубин </SecondName>
+    <Patronymic> Леонидович </Patronymic>
+    <DateOfBirth>1975-02-24T00:00:00</DateOfBirth>
+    <PlaceOfBirth> Копанка  </PlaceOfBirth>
+    <NumberOfPassport>I-ПР №756665</NumberOfPassport>
+  </Person>
+</ArrayOfPerson>
